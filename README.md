@@ -15,8 +15,4 @@ In python shell:
 if everything is ok, I can see a small window with this code:
 tkinter._test()
 
-Now, import:
-
-* from tkinter import *
-* from tkinter import tkk
 
