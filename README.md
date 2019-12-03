@@ -1,9 +1,10 @@
 # TodoVentanas Management
 In this repositorie, i will develop an python program with Tkinter.
 
-* Calculate prices,
-* Calculate costs,
+* Calculate prices, # Pendient
+* Calculate costs, # Pendient
 * Order management,
+* Cuts calculator,
 * etc.
 
 first of all, we need to import tkinter
