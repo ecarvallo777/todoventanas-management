@@ -2,11 +2,13 @@
 Created on 3 dic. 2019
 
 @author: Ecarvallo
+#v1.0
 '''
 
 ############### Libraries
 from tkinter import *
 from tkinter import ttk
+
 ##############
 
 from calculate import Calculator

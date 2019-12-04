@@ -2,12 +2,13 @@
 Created on 3 dic. 2019
 
 @author: Ecarvallo
+#v1.0
 '''
 from tkinter import *
 from tkinter import ttk
 import datetime
-from tkcalendar import Calendar, DateEntry
-from tkinter import messagebox
+from tkcalendar import *
+
 
 
 

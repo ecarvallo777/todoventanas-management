@@ -1,3 +1,10 @@
+'''
+Created on 3 dic. 2019
+
+@author: Ecarvallo
+#v1.0
+'''
+
 from tkintertable import TableCanvas, TableModel
 from tkinter import *
 import random
