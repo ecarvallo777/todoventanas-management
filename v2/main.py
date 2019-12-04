@@ -22,6 +22,7 @@ class Main:
         self.root = Tk()
         self.root.geometry("450x200")
         self.root.title("TodoVentanas Management")
+        self.root.resizable(False, False)
     ##########
     
     ########## Create buttons

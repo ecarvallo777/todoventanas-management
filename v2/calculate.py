@@ -13,6 +13,7 @@ class Calculator:
         self.calculator = Tk()
         self.calculator.geometry("300x250")
         self.calculator.title("Calcular cortes")
+        self.calculator.resizable(False, False)
         
         ######### Seleccionar linea ######
         

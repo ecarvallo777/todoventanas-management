@@ -19,6 +19,7 @@ class AddPedido:
         
         self.add.geometry("300x350")
         self.add.title("Agregar pedido")
+        self.add.resizable(False, False)
 
         self.a = datetime.datetime.now()
         self.timestampStr = self.a.strftime("%d-%b-%Y ")

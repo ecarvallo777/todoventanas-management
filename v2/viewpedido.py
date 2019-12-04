@@ -22,7 +22,7 @@ class TestApp(Frame):
         f.pack(fill=BOTH,expand=1)
         table = TableCanvas(f, editable=False)
         table.importCSV('test.csv')
-        print (table.model.columnNames)
+        #print (table.model.columnNames)
         #table.model.data[1]['a'] = 'XX'
         #table.model.setValueAt('YY',0,2)
         table.show()
